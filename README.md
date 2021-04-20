@@ -1,3 +1,5 @@
+:warning: 
+
 # An analysis of Urban Household expenses: Using the National Household Budget Survey Colombia (ENPH) 2016
 
 This is a collection of codes and files to analyze Colombian Urban Household expenses using the Household Budget survey (Encuesta Nacional de Presupuestos de los Hogares - [ENPH](http://microdatos.dane.gov.co/index.php/catalog/566/get_microdata)) with the R programming language. The goal is to aggregate the expenses by month, and type of good per household using the documentation available in the National Statistics Agency of Colombia (Departamento Administrativo Nacional de Estadísticas DANE). It consists of 4 different scripts and 3 folders arranged as follows:
