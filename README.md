@@ -1,5 +1,4 @@
-!! 
-:warning: As some files in the CSV and the Processed_files folder were too big to be uploaded to GitHub, pleaase click [here](https://drive.google.com/drive/folders/115230W1hG-rpZpULASTO3yqfwehfJOzg?usp=sharing) to download the following files: Gastos_diarios_urbanos_imputados.csv, Gastos diarios Urbanos.txt, Gastos_menos_frecuentes_articulos_Imputados.csv, Caracteristicas generales personas.csv and Gastos menos frecuentes - Artículos.txt for the CSV folder and Caracteristicas_generales_personas.csv for the Processed_files folder.
+:warning: As some files in the CSV and the Processed_files folder were too big to be uploaded to GitHub, pleaase click [here](https://drive.google.com/drive/folders/115230W1hG-rpZpULASTO3yqfwehfJOzg?usp=sharing) to download the following files: Gastos_diarios_urbanos_imputados.csv, Gastos diarios Urbanos.txt, Gastos_menos_frecuentes_articulos_Imputados.csv, Caracteristicas generales personas.csv and Gastos menos frecuentes - Artículos.txt for the CSV folder and Caracteristicas_generales_personas.csv for the Processed_files folder. :warning:
 
 # An analysis of Urban Household expenses: Using the National Household Budget Survey Colombia (ENPH) 2016
 
